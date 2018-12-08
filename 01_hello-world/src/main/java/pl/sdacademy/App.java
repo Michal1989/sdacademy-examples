@@ -1,7 +1,7 @@
 package pl.sdacademy;
 
 /**
- * Hello world!
+ * Hello world! gggggggg
  */
 public class App {
 	public static void main(String[] args) {
